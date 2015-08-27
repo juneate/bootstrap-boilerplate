@@ -1,14 +1,16 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+html, body {
+	height: 100%;
+}
 
-
-
-
-
-
+.header {
+	background-image: url('../img/0.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}
 
 
 
